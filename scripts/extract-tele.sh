@@ -1,6 +1,6 @@
 #/bin/bash
-# extract seismic data at EOS, using EOS-data in https://github.com/core-man/seismic-data.
-# copy this script into EOS-data/scripts, and run it
+# extract seismic data at EOS, using EOS.data-scripts in https://github.com/core-man/EOS.data-scripts
+# copy this script into EOS.data-scripts/scripts, and run it
 
 # input
 catalog=/home/tomoboy/Desktop/RF.Myanmar/catalog/events/ComCat-20160101-20200728-tele.dat

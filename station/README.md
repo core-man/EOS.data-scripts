@@ -1,5 +1,5 @@
 
-## EOS station (from EOS data array)
+## EOS-Myanmar seismic network (from EOS Data Processing Server)
 
 - all seismic recorders are Quantera Q330S+, sample at 100 sps
 - seismometer is either Streckeisen STS 2.5 or Nanometrics Trillium 120P

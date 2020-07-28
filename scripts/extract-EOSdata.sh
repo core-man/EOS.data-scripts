@@ -6,5 +6,5 @@ station=../station/MMEOS-coord.dat
 mseedir=/run/media/core-man/4T/EOS-Myanmar/mseed
 sacdir=/run/media/core-man/4T/EOS-Myanmar/sac
 
-./ExtractWaveform.pl -C$catalog -S$station -M$mseedir -O$sacdir -Eak135 -T-50,150 -BH
+./ExtractWaveform.pl -C$catalog -S$station -M$mseedir -O$sacdir -Rttp -Eak135 -T-50,150 -BH
 

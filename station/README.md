@@ -17,3 +17,9 @@ I find the below information in `/data/SEISMIC_DATA_TECTONICS/2017/MM/station_in
 - N1EOS-coord.dat : EOS-Myanmar Zland node coordinates from Hongyu Zeng on Apr. 28 2020
 - EOS-coord.dat   : Both broadband and node stations
 
+
+## Instrument responese
+
+`TODO` (in [RF.Myanmar/station](https://github.com/core-man/RF.Myanmar) and `tomo-myanmar`)
+
+

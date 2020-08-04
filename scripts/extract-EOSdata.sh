@@ -4,6 +4,7 @@
 # https://github.com/core-man/EOS.data-scripts
 #
 
+# you may change the following parameters according to your purpose
 catalog=/home/core-man/catalog/catalog.dat          # catalog
 station=../station/MMEOS-coord.dat                  # station locations
 mseedir=/run/media/core-man/4T/EOS-Myanmar/mseed    # miniseed directory

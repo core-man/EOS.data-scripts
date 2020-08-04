@@ -5,10 +5,11 @@
 #
 
 # you may change the following parameters according to your purpose
-catalog=/home/core-man/catalog/catalog.dat          # catalog
+catalog=../catalog/catalog.dat                      # catalog
 station=../station/MMEOS-coord.dat                  # station locations
-mseedir=/run/media/core-man/4T/EOS-Myanmar/mseed    # miniseed directory
-sacdir=/run/media/core-man/4T/EOS-Myanmar/sac       # output sac directory
+#mseedir=/run/media/core-man/4T/EOS-Myanmar/mseed    # miniseed directory
+mseedir=/run/media/tomoboy/4T-YAO1/EOS-Myanmar/mseed    # miniseed directory
+sacdir=../sac                                       # output sac directory
 
 # extract broadband data within 50 sec before and 150 sec after
 # first P-wave arrival based on AK135 model

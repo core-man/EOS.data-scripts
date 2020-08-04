@@ -19,5 +19,5 @@ To see the command options, please run
 $ ./ExtractWaveform.pl
 ```
 
-See an bash example: `extract-tele.sh`.
+See an bash example: `extract-EOSdata.sh`.
 

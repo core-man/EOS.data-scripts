@@ -1,3 +1,4 @@
+**NOTES:** The scripts are move to [SeisData_Tools](https://github.com/MIGG-NTU/SeisData_Tools) on Dec. 1 2020.
 
 Perl scripts to extract seismic waveforms at EOS Data Processing Server.
 
@@ -7,4 +8,3 @@ Perl scripts to extract seismic waveforms at EOS Data Processing Server.
 
 
 Go to [scripts](scripts/) to run the scripts
-

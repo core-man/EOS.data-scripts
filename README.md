@@ -1,4 +1,4 @@
-**NOTES:** The scripts are move to [SeisData_Tools](https://github.com/MIGG-NTU/SeisData_Tools) on Dec. 1 2020.
+**NOTES:** The scripts are move to [MIGG-NTU](https://github.com/MIGG-NTU/FetchData-EOS) on Dec. 1 2020.
 
 Perl scripts to extract seismic waveforms at EOS Data Processing Server.
 
